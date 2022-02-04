@@ -44,9 +44,9 @@
               >Vue.js - Vuetify - Vuex - Vue Router</v-card-subtitle
             >
             <v-card-text
-              >Feels like web-ception explaining this web app while on it. Built
+              >Feels like web-ception explaining this website while on it. Built
               using Vuetify framework for the first time, exploring all of the
-              components it has to offer.
+              components it has to offer. Run on a free netlify account and updates from a Github Repo
             </v-card-text>
           </v-card>
         </v-col>
