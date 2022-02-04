@@ -1,0 +1,99 @@
+<template>
+<v-main class="pt-2 pt-sm-2 pt-xs-2 pt-md-0 pt-lg-0 pt-xl-0">
+      <v-container>
+        <div class="container"
+         align="center"
+          justify="center"><v-row>
+          <v-col
+          >
+            <v-card
+                width="500px"
+                dark>
+                <v-img
+                    src="../assets/andromeda_thumb.jpg">
+                </v-img>
+            </v-card>
+          </v-col>
+          <v-col
+          >
+            <v-card
+                width="500px"
+                dark>
+                <v-img
+                    src="../assets/andyboardslide_thumb.jpg">
+                </v-img>
+            </v-card>
+          </v-col>
+          <v-col
+          >
+            <v-card
+                width="500px"
+                dark>
+                <v-img
+                    src="../assets/andysequence_thumb.jpg">
+                </v-img>
+            </v-card>
+          </v-col>
+          <v-col
+          >
+            <v-card
+                width="500px"
+                dark>
+                <v-img
+                    src="../assets/chairliftmilkyway_thumb.jpg">
+                </v-img>
+            </v-card>
+          </v-col>
+          <v-col
+          >
+            <v-card
+                width="500px"
+                dark>
+                <v-img
+                    src="../assets/frontboard_thumb.jpg">
+                </v-img>
+            </v-card>
+          </v-col>
+          <v-col
+          >
+            <v-card
+                width="500px"
+                dark>
+                <v-img
+                    src="../assets/ollietongue_thumb.jpg">
+                </v-img>
+            </v-card>
+          </v-col>
+          <v-col
+          >
+            <v-card
+                width="500px"
+                dark>
+                <v-img
+                    src="../assets/vertchairliftmilkyway_thumb.jpg">
+                </v-img>
+            </v-card>
+          </v-col>
+          <v-col
+          >
+            <v-card
+                width="500px"
+                dark>
+                <v-img
+                    src="../assets/andromeda_thumb.jpg">
+                </v-img>
+            </v-card>
+          </v-col>
+
+        </v-row></div>
+      </v-container>
+    </v-main>
+</template>
+
+<script>
+export default {
+}
+</script>
+
+<style>
+</style>
