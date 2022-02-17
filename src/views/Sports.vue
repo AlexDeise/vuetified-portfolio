@@ -54,6 +54,24 @@
               <v-img src="../assets/andyboardslide_thumb.jpg"> </v-img>
             </v-card>
           </v-col>
+          <!--  -->
+          <v-col>
+            <v-card width="500px" dark>
+              <v-img src="../assets/DSZ_1499_thumb.jpg"> </v-img>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card width="500px" dark>
+              <v-img src="../assets/faceoffpittkentstate_thumb.jpg"> </v-img>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card width="500px" dark>
+              <v-img src="../assets/pokecheckincoming_thumb.jpg"> </v-img>
+            </v-card>
+          </v-col>
+
+          
         </v-row>
       </div>
     </v-container>

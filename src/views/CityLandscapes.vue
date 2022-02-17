@@ -15,23 +15,22 @@
           </v-col>
           <v-col>
             <v-card width="500px" dark>
-              <v-img src="../assets/crystalmountain_thumb.jpg"> </v-img>
+              <v-img src="../assets/pghheli1_thumb.jpg"> </v-img>
             </v-card>
           </v-col>
           <v-col>
             <v-card width="500px" dark>
-              <v-img src="../assets/lakeserenewashington_thumb.jpg"> </v-img>
+              <v-img src="../assets/pghheli2_thumb.jpg"> </v-img>
             </v-card>
           </v-col>
           <v-col>
             <v-card width="500px" dark>
-              <v-img src="../assets/mtRainy_thumb.jpg"> </v-img>
+              <v-img src="../assets/pghheli3_thumb.jpg"> </v-img>
             </v-card>
           </v-col>
           <v-col>
             <v-card width="500px" dark>
-              <v-img src="../assets/westendoverlook_thumb.jpg">
-              </v-img>
+              <v-img src="../assets/westendoverlook_thumb.jpg"> </v-img>
             </v-card>
           </v-col>
           <v-col>
@@ -42,11 +41,26 @@
           </v-col>
           <v-col>
             <v-card width="500px" dark>
-              <v-img src="../assets/westendoverlookmoonrise_thumb.jpg">
-              </v-img>
+              <v-img src="../assets/westendoverlookmoonrise_thumb.jpg"> </v-img>
             </v-card>
           </v-col>
-           <v-col>
+
+          <v-col>
+            <v-card width="500px" dark>
+              <v-img src="../assets/crystalmountain_thumb.jpg"> </v-img>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card width="500px" dark>
+              <v-img src="../assets/mtRainy_thumb.jpg"> </v-img>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card width="500px" dark>
+              <v-img src="../assets/lakeserenewashington_thumb.jpg"> </v-img>
+            </v-card>
+          </v-col>
+          <v-col>
             <v-card width="500px" dark>
               <v-img src="../assets/verticalblackrockwaterfalls_thumb.jpg">
               </v-img>

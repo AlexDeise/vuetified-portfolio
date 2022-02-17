@@ -10,7 +10,17 @@
                 >Andromeda Galaxy</v-card-title
               >
               <v-card-subtitle>Nikon D7500 + Explore Scientific ED80CF telescope</v-card-subtitle>
-              <v-card-text>Exposure Info: 37s at ISO 2000, 30 minutes of exposures</v-card-text>
+              <v-card-text>Exposure Info: 37s at ISO 2000 (30 minutes exposure total)</v-card-text>
+            </v-card>
+          </v-col>
+          <v-col>
+            <v-card width="500px" dark>
+              <v-img src="../assets/LagoonTrifidNebulae_261s_iso1250_thumb.jpg"> </v-img>
+              <v-card-title class="justify-center"
+                >Lagoon and Trifid Nebulae</v-card-title
+              >
+              <v-card-subtitle>Nikon D7500 + Explore Scientific ED80CF telescope</v-card-subtitle>
+              <v-card-text>Exposure Info: 261s ISO 1250 (30 minutes exposure total)</v-card-text>
             </v-card>
           </v-col>
           <v-col>
@@ -57,22 +67,23 @@
             <v-card width="500px" dark>
               <v-img src="../assets/m42_55s_thumb.jpg"> </v-img>
               <v-card-title class="justify-center">Orion Nebula</v-card-title>
-              <v-card-text></v-card-text>
+              <v-card-subtitle>Nikon D3300 +</v-card-subtitle>
+              <v-card-text>Exposure Info: 55s  </v-card-text>
             </v-card>
           </v-col>
           <v-col>
             <v-card width="500px" dark>
               <v-img src="../assets/m45_54s_thumb.jpg"> </v-img>
               <v-card-title class="justify-center">Pleiades Cluster</v-card-title>
-              <v-card-subtitle>Nikon D3300 18-35mm Kit Lens</v-card-subtitle>
-              <v-card-text>Exposure Info: </v-card-text>
+              <v-card-subtitle>Nikon D73300 + 70-300mm f5-6.5</v-card-subtitle>
+              <v-card-text>Exposure Info: 55s 200mm @ f5</v-card-text>
             </v-card>
           </v-col>
           <v-col>
             <v-card width="500px" dark>
               <v-img src="../assets/milkywaycore50mm_thumb.jpg"> </v-img>
               <v-card-title class="justify-center">Milky Way Core</v-card-title>
-              <v-card-subtitle>Nikon D3300 18-35mm Kit Lens</v-card-subtitle>
+              <v-card-subtitle>Nikon D7500 + Tokina 11-16mm f2.8</v-card-subtitle>
               <v-card-text>Exposure Info: </v-card-text>
             </v-card>
           </v-col>
@@ -97,7 +108,7 @@
               <v-img src="../assets/milkywaysevenspringsreflection_thumb.jpg">
               </v-img>
               <v-card-title class="justify-center">Milky Way Reflection</v-card-title>
-              <v-card-subtitle>Nikon D3300 18-35mm Kit Lens</v-card-subtitle>
+              <v-card-subtitle>Nikon D3300 50mm 1.8G</v-card-subtitle>
               <v-card-text>Exposure Info: </v-card-text>
             </v-card>
           </v-col>
@@ -105,7 +116,7 @@
             <v-card width="500px" dark>
               <v-img src="../assets/treemilkyway_thumb.jpg"> </v-img>
               <v-card-title class="justify-center">Milky Way</v-card-title>
-              <v-card-subtitle>Nikon D3300 18-35mm Kit Lens</v-card-subtitle>
+              <v-card-subtitle>Sony A7iii + Tamron 28-75 f2.8</v-card-subtitle>
               <v-card-text>Exposure Info: </v-card-text>
             </v-card>
           </v-col>
