@@ -1,15 +1,17 @@
 <template>
   <div class="container text-center">
     <h1>About Me</h1>
-    <!-- <h2><v-icon x-large>mdi-account-hard-hat</v-icon>
-   Under Construction!
-    <v-icon x-large>mdi-account-hard-hat</v-icon></h2> -->
+    <h2>
+      <v-icon x-large>mdi-account-hard-hat</v-icon>
+      Under Construction!
+      <v-icon x-large>mdi-account-hard-hat</v-icon>
+    </h2>
     <p>
       Around 2014-2015 I became interested in Astrophotography which eventually
       led me into general photography. I enjoy mixing my hobbies so I bring my
       camera along with me when I go snowboarding or riding my bicycle.
     </p>
-
+<!-- 
     <p>
       While working full time at University of Pittsburgh I enrolled in a few
       computer science courses to learn more around 2016.
@@ -30,8 +32,8 @@
     <p>
       While at Tech Elevator I built full stack applications using a Java /
       Postgresql / Vue.js
-    </p>
-    <p>Check out some of my projects below!</p>
+    </p> -->
+    <!-- <p>Check out some of my projects below!</p>
     <v-divider></v-divider>
     <h1>Projects</h1>
     <div class="container" align="center" justify="center">
@@ -89,7 +91,7 @@
           </div>
         </v-col>
       </v-row>
-    </div>
+    </div> -->
     <v-divider></v-divider>
     <h1>Skills / Tech Stack</h1>
     <span class="group">
@@ -101,7 +103,7 @@
       <v-icon x-large> mdi-vuejs </v-icon>
       <v-icon x-large> mdi-react </v-icon>
       <v-icon x-large> mdi-bootstrap </v-icon>
-      <v-icon x-large> mdi-git </v-icon>
+      <v-icon x-large> mdi-angular </v-icon>
     </span>
   </div>
 </template>
